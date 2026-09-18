@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Campus Achievement Wallet
     https://caw-26.vercel.app/
 > **Instantly Verifiable NFT Achievement Certificates** on Base Sepolia using UGF (gasless bonus included)
@@ -206,3 +207,6 @@ CAMPUS WALLET/
 ---
 
 *Built with ❤️ · Verified on-chain · Powered by UGF · No ETH Required*
+=======
+# Certificate-verification
+>>>>>>> bf2eaa01c49284a8c0a14ee6ed73e983616ce565
