@@ -206,7 +206,7 @@ CAMPUS WALLET/
 
 ---
 
-*Built with ❤️ · Verified on-chain · Powered by UGF · No ETH Required*
+*Built with · Verified on-chain · Powered by UGF · No ETH Required*
 =======
 # Certificate-verification
 >>>>>>> bf2eaa01c49284a8c0a14ee6ed73e983616ce565
